@@ -1,0 +1,21 @@
+{
+  "name": "stypt",
+  "displayName": "Stypt",
+  "description": "Stypt Color Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Stypt",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Stypt-color-theme.json"
+      }
+    ]
+  }
+}
