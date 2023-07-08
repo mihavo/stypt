@@ -1,26 +1,37 @@
 {
-  "name": "stypt",
-  "displayName": "Stypt",
-  "description": "Stypt Color Theme",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.78.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Michael-Vol/Stypt-Theme.git"
-  },
-  "publisher": "michaelvolakis",
-  "contributes": {
-    "themes": [
-      {
-        "label": "Stypt",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Stypt-color-theme.json"
-      }
-    ]
-  }
+	"name": "stypt",
+	"displayName": "Stypt",
+	"description": "Stypt Color Theme",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.78.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Michael-Vol/Stypt-Theme.git"
+	},
+	"publisher": "michaelvolakis",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Stypt",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Stypt-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "62d3f82c-b7b6-4a79-a0ab-104bf4483081",
+		"publisherId": "886bc0d2-be94-4464-9d1c-20143be43ce3",
+		"publisherDisplayName": "Michael Volakis",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": true,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1688809605147,
+		"preRelease": false
+	}
 }
