@@ -2,7 +2,7 @@
 	"name": "stypt",
 	"displayName": "Stypt",
 	"description": "Stypt Color Theme",
-	"version": "0.0.1",
+	"version": "1.1.0",
 	"engines": {
 		"vscode": "^1.78.0"
 	},
