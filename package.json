@@ -14,6 +14,7 @@
 		"url": "https://github.com/Michael-Vol/Stypt-Theme.git"
 	},
 	"publisher": "michaelvolakis",
+	"icon": "color-selection.png",
 	"contributes": {
 		"themes": [
 			{
