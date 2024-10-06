@@ -2,7 +2,7 @@
 	"name": "stypt",
 	"displayName": "Stypt",
 	"description": "Stypt Color Theme",
-	"version": "1.6.0",
+	"version": "1.8.2",
 	"engines": {
 		"vscode": "^1.78.0"
 	},
@@ -14,7 +14,7 @@
 		"url": "https://github.com/Michael-Vol/Stypt-Theme.git"
 	},
 	"publisher": "michaelvolakis",
-	"icon": "color-selection.png",
+	"icon": "resources/icon/color-selection.png",
 	"contributes": {
 		"themes": [
 			{
@@ -29,10 +29,13 @@
 		"publisherId": "886bc0d2-be94-4464-9d1c-20143be43ce3",
 		"publisherDisplayName": "Michael Volakis",
 		"targetPlatform": "undefined",
-		"isApplicationScoped": false,
-		"updated": true,
+		"updated": false,
 		"isPreReleaseVersion": false,
-		"installedTimestamp": 1688811711711,
-		"preRelease": false
+		"installedTimestamp": 1728221214400,
+		"hasPreReleaseVersion": false,
+		"pinned": false,
+		"isApplicationScoped": false,
+		"preRelease": false,
+		"source": "gallery"
 	}
 }
