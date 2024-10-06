@@ -1,5 +1,12 @@
-A VS Code Color Theme based on the [Github Blue Theme](https://github.com/larxx/github-blue) 
+<div align='center'>
+ <h1 style='color: #7989ed;' > Stypt </h3>
+ </div>
 
-![Demo Image (TS)](https://raw.githubusercontent.com/Michael-Vol/Stypt-Theme/eac139877d73bea3ae9b3c1a5c910223eb73342d/demo_ts.png)
-![Demo Image (CSS)](https://raw.githubusercontent.com/Michael-Vol/Stypt-Theme/eac139877d73bea3ae9b3c1a5c910223eb73342d/demo_css.png)
-![Demo Image (JSON)](https://raw.githubusercontent.com/Michael-Vol/Stypt-Theme/eac139877d73bea3ae9b3c1a5c910223eb73342d/demo_json.png)
+<br/>
+<div align='center'>
+A soothing blue theme designed for optimal comfort and focus, inspired by the <a href='https://github.com/larxx/github-blue'> Github Blue</a> theme.
+</div>
+
+<br/>
+
+![Demo Image (TS)](https://raw.githubusercontent.com/Michael-Vol/Stypt-Theme/refs/heads/main/resources/v2/demo_ts.png)
